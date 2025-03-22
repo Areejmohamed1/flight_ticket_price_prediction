@@ -21,7 +21,6 @@ Flight ticket prices can be very dynamic and change based on multiple features. 
 - Scikit-Learn
 - XGBoost
 - Pandas / NumPy
-- Streamlit (for UI)
 
 ## 🎯 Model Performance
 | Metric | Score |
