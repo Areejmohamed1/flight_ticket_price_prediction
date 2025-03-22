@@ -1,0 +1,25 @@
+Air India
+IndiGo
+Jet Airways
+Jet Airways Business
+Multiple carriers
+SpiceJet
+Delhi
+Kolkata
+Mumbai
+Dest_Cochin
+Dest_Delhi
+Dest_Hyderabad
+Dest_New Delhi
+Medium
+Short
+month
+day 
+Total_Stops
+Dgree
+Duration(Minutes)
+day_number
+Dep_Time_hour
+Dep_Time_min
+Arrival_Time_hour
+Arrival_Time_min
